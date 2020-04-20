@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c7889ec-bba3-4aaf-af14-18fe322f110b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SinCity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SinCity.gemspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/SinCity.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/SinCity/version.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/SinCity_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aoIPribMxxyF7rlQdZpE9jM1CB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c7889ec-bba3-4aaf-af14-18fe322f110b" name="Default Changelist" comment="" />
+      <created>1587395498881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587395498881</updated>
+      <workItem from="1587395501376" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="212" key="GridCell.Tab.0.bottom" timestamp="1587395604806">
+      <screen x="-270" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="212" key="GridCell.Tab.0.bottom/0.23.1440.877/-270.-1057.1920.1057@-270.-1057.1920.1057" timestamp="1587395604806" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1587395518020" />
+    <state width="1878" height="212" key="GridCell.Tab.0.center" timestamp="1587395604804">
+      <screen x="-270" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="212" key="GridCell.Tab.0.center/0.23.1440.877/-270.-1057.1920.1057@-270.-1057.1920.1057" timestamp="1587395604804" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1587395518019" />
+    <state width="1878" height="212" key="GridCell.Tab.0.left" timestamp="1587395604803">
+      <screen x="-270" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="212" key="GridCell.Tab.0.left/0.23.1440.877/-270.-1057.1920.1057@-270.-1057.1920.1057" timestamp="1587395604803" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1587395518017" />
+    <state width="1878" height="212" key="GridCell.Tab.0.right" timestamp="1587395604805">
+      <screen x="-270" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="212" key="GridCell.Tab.0.right/0.23.1440.877/-270.-1057.1920.1057@-270.-1057.1920.1057" timestamp="1587395604805" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.877/-270.-1057.1920.1057@0.23.1440.877" timestamp="1587395518020" />
+    <state x="199" y="-890" key="SettingsEditor" timestamp="1587396037596">
+      <screen x="-270" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="199" y="-890" key="SettingsEditor/0.23.1440.877/-270.-1057.1920.1057@-270.-1057.1920.1057" timestamp="1587396037596" />
+  </component>
+</project>
